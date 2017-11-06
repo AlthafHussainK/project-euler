@@ -1,6 +1,8 @@
 #include<stdio.h>
+
 #define N 600851475143
-void main()
+
+int main(void)
 {
 
 	long long i,j,t,fact=1;
