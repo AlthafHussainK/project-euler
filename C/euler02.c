@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main()
+
+int main(void)
 {
 
 unsigned long long t1=0,t2=1,tn;
